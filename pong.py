@@ -19,7 +19,7 @@ CIRCLE_RADIUS = 10
 
 pygame.init()
 
-# Set the height and width of the screen
+# Set the height and width of the screen.
 size = [700, 500]
 screen = pygame.display.set_mode(size)
 
